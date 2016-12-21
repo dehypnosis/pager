@@ -1,4 +1,4 @@
-# Pager is a web-crawler based on PhantomJs and Cheerio (Node.js)
+# Pager is a web-crawler based on PhantomJs
 
 ## Install
 ```bash
