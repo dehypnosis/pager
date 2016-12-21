@@ -68,7 +68,7 @@ const recipeForNaverNews = {
 ### cook the recipe
 ```js
 const pager = require('./services/pager');
-const Storage = require('./services/pager-storage'); // memory storage, you can extends something like mysql-storage
+const Storage = require('./services/pager-storage'); // memory storage, you can use something like mysql-storage
 let storage = new Storage();
 let page1 = pager(recipeForNaverNews, storage);
 
