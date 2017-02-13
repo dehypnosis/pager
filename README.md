@@ -107,4 +107,4 @@ page1
   ...
 ]
 ```
-A task crawling 700 articles takes less than a minute.
+A task crawling 700 articles (more than 700 browsing) takes less than a minute.
